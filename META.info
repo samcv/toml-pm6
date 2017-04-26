@@ -1,5 +1,6 @@
 {
     "name"          : "TOML",
+    "license"       : "Artistic-2.0",
     "version"       : "0.3.1alpha",
     "description"   : "Perl 6 TOML Serializer",
     "author"        : "Mouq",
